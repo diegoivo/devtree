@@ -1,5 +1,5 @@
 ---
-name: devtree start
+name: start
 description: Create a new worktree with isolated database, cache, port, and branch for parallel feature development
 ---
 

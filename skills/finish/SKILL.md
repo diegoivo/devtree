@@ -1,5 +1,5 @@
 ---
-name: devtree finish
+name: finish
 description: Run quality gates, merge feature branch to main, and clean up all worktree resources
 ---
 

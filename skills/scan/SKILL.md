@@ -1,5 +1,5 @@
 ---
-name: devtree scan
+name: scan
 description: Run local SonarQube code quality analysis - quick scan or full quality gate
 ---
 

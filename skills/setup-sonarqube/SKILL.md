@@ -1,5 +1,5 @@
 ---
-name: devtree setup-sonarqube
+name: setup-sonarqube
 description: Bootstrap local SonarQube for code quality analysis (once per machine)
 ---
 

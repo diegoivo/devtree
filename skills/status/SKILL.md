@@ -1,5 +1,5 @@
 ---
-name: devtree status
+name: status
 description: Show all active workstreams with health indicators and resource status
 ---
 
