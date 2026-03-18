@@ -1,0 +1,21 @@
+{
+  "name": "diegoivo",
+  "description": "Personal Claude Code plugins by Diego Ivo",
+  "owner": {
+    "name": "Diego Ivo"
+  },
+  "plugins": [
+    {
+      "name": "devtree",
+      "source": "./",
+      "description": "Git worktree management with isolated resources and local SonarQube code quality analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "Diego Ivo"
+      },
+      "homepage": "https://github.com/diegoivo/devtree",
+      "repository": "https://github.com/diegoivo/devtree",
+      "keywords": ["worktree", "sonarqube", "quality", "parallel-development"]
+    }
+  ]
+}
