@@ -1,0 +1,9 @@
+{
+  "name": "devtree",
+  "description": "Git worktree management with isolated resources (database branches, cache prefixes, ports) and local SonarQube code quality analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Diego Ivo"
+  },
+  "homepage": "https://github.com/diegoivo/devtree"
+}
